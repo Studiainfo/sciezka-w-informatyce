@@ -13,3 +13,6 @@ Moim celem jest jak najwięcej wyciągnąc na wykładach i ćwiczeniach oraz zac
 
 ## Specjalizacja do wybrania na 3 roku
 W tym momencie wydaję mi się że z specjalizacji jakie są możliwe do wyboru wybrał bym tą związane z AI
+
+## Wrażenia na uczelnii
+Ogólnie podoba mi się uczelnia i atmosfera na niej, co nie zmienia faktu ze dla poczatkującego wydaje się tempo całkiem szybkie ale z drugiej strony mamy całkiem fajnie ułożony plan zajęc więc jest dużo czasu aby coś ewentualnie poćwiczyc
