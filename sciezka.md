@@ -8,3 +8,8 @@ Moje umiejętności jak narazie składają się wyłącznie z tego co wyciągną
 
 ## Cele
 Moim celem jest jak najwięcej wyciągnąc na wykładach i ćwiczeniach oraz zacząc łapać ogólnie o co chodzi w tym wszystkim
+
+
+
+## Specjalizacja do wybrania na 3 roku
+W tym momencie wydaję mi się że z specjalizacji jakie są możliwe do wyboru wybrał bym tą związane z AI
